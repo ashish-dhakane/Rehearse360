@@ -1,6 +1,6 @@
 # Rehearse360 - AI Interview Module
  
-## 🎯 Overview
+## Overview
 
 Rehearse360 is a modern, AI-powered interview simulation platform designed to help professionals practice and improve their interview skills. The application provides realistic interview experiences with role-specific questions, real-time feedback, and detailed performance analytics.
 
